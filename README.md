@@ -12,3 +12,6 @@ construção física dessa gamificação, visto que a inclusão dos alunos com e
 e utilização física. 
 
 Arquivo completo: https://github.com/pabloscv/oed_matuno/blob/main/Instru%C3%A7%C3%B5es%20do%20MATUNO.pdf
+Instruções de como jogar: https://github.com/pabloscv/oed_matuno/blob/main/Instru%C3%A7%C3%B5es%20do%20MATUNO.pdf
+
+Observação: Verifique o modelo da carta
