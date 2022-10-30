@@ -1,5 +1,5 @@
 # MatUNO
-
+--
     Ao refletir sobre uma Educação voltada à tecnologia, torna-se necessário repensar os parâmetros educacionais, visando 
 modificações no trabalho de formulação de atividades didáticas que possam ser associadas ao uso de computadores ou de 
 qualquer outra mídia (CABRAL, 2005). Esse processo de renovação sugere uma reorganização dos conteúdos trabalhados, 
