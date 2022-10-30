@@ -10,3 +10,5 @@ home office que cada vez mais cativa as pessoas, portanto no que se refere as es
 cada vez mais não concorrendo com a internet, mas apoiando-se no concreto como a gamificação e na realidade como a 
 construção física dessa gamificação, visto que a inclusão dos alunos com espectro autista está baseada na adaptação 
 e utilização física. 
+
+Arquivo completo: https://github.com/pabloscv/oed_matuno/blob/main/Instru%C3%A7%C3%B5es%20do%20MATUNO.pdf
